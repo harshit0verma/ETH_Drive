@@ -2,7 +2,7 @@
 
 A Decentralised Drive made with the help of ipfs .
 
-##Installation guide
+## Installation guide
 ```shell
 
 ```
